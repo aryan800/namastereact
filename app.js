@@ -2,6 +2,8 @@
 //     {id: "heading", xyz:"abc"}, "Hello world from React!"
 //     );
 
+// new comment
+
 const parent = React.createElement(
     "div",
     { id: "parent" },
